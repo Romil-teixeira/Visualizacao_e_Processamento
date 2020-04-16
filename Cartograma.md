@@ -107,8 +107,8 @@
         }, {
             'hc-a2': 'MT',
             name: 'Matematica',
-            x: 5,
-            y: 5,
+            x: 4,
+            y: 3,
             value: 20
         }, {
             'hc-a2': 'SI',
@@ -128,13 +128,6 @@
             x: 5,
             y: 2,
             value: 7
-        }, {
-            'hc-a2': 'CO',
-            name: 'Colorado',
-            region: 'West',
-            x: 4,
-            y: 3,
-            value: 5540545
         }]
         
     }]
